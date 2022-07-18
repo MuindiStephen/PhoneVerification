@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063837648215",
+    "project_id": "phone-verification-c8348",
+    "storage_bucket": "phone-verification-c8348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063837648215:android:65180dd1fb82a7ba986a12",
+        "android_client_info": {
+          "package_name": "com.stevemuindi.phone_verification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063837648215-n9fbsmmamadhtcmd4ge14benri4ucgb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQyGvDsNt9-8-zm46GK9pNxaFevrsAhNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063837648215-n9fbsmmamadhtcmd4ge14benri4ucgb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
